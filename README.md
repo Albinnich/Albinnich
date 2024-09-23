@@ -2,7 +2,6 @@
 - 👀 I’m interested in Software Engineering and QA Testing
 - 🌱 I’m currently learning C, Python, SQL and JS
 - 📫 How to reach me: albina.ismayilova001@gmail.com
-- ⚡ Fun fact: on every opportunity I watch/listen true crimes and horrors
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albinnich&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
 
