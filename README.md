@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Albinnich
-- 👀 I’m interested in Software Engineering and QA Testing
-- 🌱 I’m currently learning C, Python, SQL and JS
+- 👋 Hi, I’m Albina
+- 👀 I’m interested in SE and QA Testing
+- 🌱 I’m currently learning Selenium with Python and Postman
 - 📫 How to reach me: albina.ismayilova001@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albinnich&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
